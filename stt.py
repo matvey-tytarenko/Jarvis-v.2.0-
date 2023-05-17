@@ -5,6 +5,7 @@ from datetime import datetime
 from num2words import num2words
 import playsound as ps
 import random
+import pyautogui as pg
 
 now = datetime.now()
 
